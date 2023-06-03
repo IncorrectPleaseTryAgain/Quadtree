@@ -1,4 +1,4 @@
-# Quadtree | Independent
+# Quadtree
 This is an implementation of the Quadtree datastructure. This implementation is solely dependent on JavaScript and p5.js is only used for visualization purposes.
 
 
