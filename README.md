@@ -1,6 +1,7 @@
 # <a name="top">Quadtree</a>
 This is an implementation of the Quadtree datastructure. This implementation is solely dependent on JavaScript and p5.js is only used for visualization purposes.
 
+## Contents
 + [How does it work?](#how-does-it-work)
 + [References](#references)
 
